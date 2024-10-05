@@ -11,16 +11,19 @@ Proyek ini bertujuan untuk menganalisis data dari *Bike Sharing Dataset*, dengan
 - Proyek_Analisis_Data2.py : main.py yang digunakan untuk membuat dashboard
 
 # Instalasi
-1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
-- https://github.com/athallaz/Proyek_Analisis_Data.git
-
-2. Pastikan sudah memiliki environment Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
-- pip install streamlit numpy seaborn pandas matplotlib
-
+1. Pastikan sudah memiliki environment Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
+```
+pip install streamlit numpy seaborn pandas matplotlib
+```
 # Penggunaan
+Run streamlit app
+```
+streamlit run Proyek_Analisis_Data2.py
+```
 Bisa Kunjungi Website :
-- https://athallaz-proyek-analisis-data-proyek-analisis-data2-qkzsfz.streamlit.app/
-
+```
+https://athallaz-proyek-analisis-data-proyek-analisis-data2-qkzsfz.streamlit.app/
+```
 
 
 
